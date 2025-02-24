@@ -1,4 +1,4 @@
-package me.ardikapras.example.rest.controllers
+package me.ardikapras.example.resttemplate.controllers
 
 import org.springframework.web.bind.annotation.*
 

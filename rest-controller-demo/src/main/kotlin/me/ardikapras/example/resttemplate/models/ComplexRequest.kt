@@ -1,4 +1,4 @@
-package me.ardikapras.example.rest.models
+package me.ardikapras.example.resttemplate.models
 
 data class ComplexRequest(
     val id: Long,

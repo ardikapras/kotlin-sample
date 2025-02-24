@@ -1,7 +1,7 @@
-package me.ardikapras.example.rest.controllers
+package me.ardikapras.example.resttemplate.controllers
 
-import me.ardikapras.example.rest.models.ComplexRequest
-import me.ardikapras.example.rest.models.Message
+import me.ardikapras.example.resttemplate.models.ComplexRequest
+import me.ardikapras.example.resttemplate.models.Message
 import org.springframework.web.bind.annotation.PostMapping
 import org.springframework.web.bind.annotation.RequestBody
 import org.springframework.web.bind.annotation.RequestMapping

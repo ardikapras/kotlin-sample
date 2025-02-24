@@ -1,0 +1,4 @@
+server:
+  port: 8080
+service-b:
+  url: http://localhost:8081
